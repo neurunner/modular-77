@@ -14,7 +14,7 @@ public:
        for two dimensional array to third two dimensional array. */
     /* 2) findBy) >> Searching sought argument(s) in array
        matrix and other collections. */
-    /* 3) findByRange) >> Maby it be fibonacci or other method. */
+    /* 3) findByRange) >> May be it be fibonacci or other method. */
 
     void /* int[][] */ findNotNullElements(int twoDimArr);
     void /* float[][] or vector<float, float> */ multiplyArrOnVec(int twoDimArr, int vector);
